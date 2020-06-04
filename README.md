@@ -1,4 +1,4 @@
-# rest-psca-accounts project
+# rest-accounts project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
